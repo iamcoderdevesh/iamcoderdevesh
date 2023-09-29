@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Devesh Ukalkar<br>🔭 I’m currently working on MovieTime Android App<br>🌱 I’m currently learning PHP, Android<br>💬 Ask me about Android, Web, Software, Game Development<br>📫 How to reach me deveshukalkar007@gmail.com
+👋 Hi, I’m Devesh Ukalkar<br>🔭 I’m currently working on MovieTime Android App<br>🌱 I’m currently learning React, MERN STACK<br>💬 Ask me about Android, Web, Software, Game Development<br>📫 How to reach me deveshukalkar007@gmail.com
 
 
 ## 🌐 Socials:
