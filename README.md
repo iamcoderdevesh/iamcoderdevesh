@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Devesh Ukalkar<br>🔭 I’m currently working on MovieTime Android App<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Android, Web, Software, Game Development<br>📫 How to reach me ukalkardevesh5@gmail.com
+👋 Hi, I’m Devesh Ukalkar<br>🔭 I’m currently working at FynTune Solution Pvt. Ltd. as a Software Engineer<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Android, Web, Software, Game Development<br>📫 How to reach me ukalkardevesh5@gmail.com
 
 
 ## 🌐 Socials:
